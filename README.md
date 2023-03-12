@@ -1,5 +1,6 @@
 # Biazin-Learning
 This Is E- Learning app for both students and teachers
+Authentication - Teachers  Adding  , Delete and Update Courses - Students view Courses  - Students search for teachers by different ways - Profile for both students and teachers ,they can update there personal information
 
 
 ## Photos
